@@ -1,5 +1,12 @@
 p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-weight: bold;
-    font-size: 5px;
+    font-style: italic;
+    font-size: 15px;
+    text-transform: capitalize;
+}
+.conteiner {
+    display: block;
+    background-color: red;
+    width: 200px;
+    height: 150px;
 }
